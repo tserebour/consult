@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504601272345",
+    "project_id": "consult-40b35",
+    "storage_bucket": "consult-40b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504601272345:android:f39eb1959e27645975ca88",
+        "android_client_info": {
+          "package_name": "com.example.consult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504601272345-27l6tv9s9m8gs9iug764e9takgp6o4nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTwdAledTikOBQ2JzCfZbtxAKbsQYOwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504601272345-27l6tv9s9m8gs9iug764e9takgp6o4nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
